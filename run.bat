@@ -1,0 +1,1 @@
+mvn test -Dsurefire.suiteXMLFile=testngE2E.xml

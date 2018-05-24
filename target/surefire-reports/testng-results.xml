@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="419358" started-at="2018-01-12T09:30:39Z" finished-at="2018-01-12T09:37:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="419358" started-at="2018-01-12T09:30:39Z" finished-at="2018-01-12T09:37:38Z">
+      <class name="testSuite.Demo">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testSuite.Demo@73ee04c8]" name="setUP" is-config="true" duration-ms="490" started-at="2018-01-12T04:30:39Z" finished-at="2018-01-12T04:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="accountImplementation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testSuite.Demo@73ee04c8]" name="accountImplementation" duration-ms="411128" started-at="2018-01-12T04:30:42Z" data-provider="data" finished-at="2018-01-12T04:37:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://login.salesforce.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tester123@infosys.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SalesForce2018]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Demo_Account]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9874563210]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Prospect]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[123 Down Street]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[MD]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[MD]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[51112]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[1/22/18]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[MAY]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Demo_Opp]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[1/17/18]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[1/22/18]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[saransh_goyal@infosys.com]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[SalesForce2018]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Sold]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[Sold]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountImplementation -->
+        <test-method status="PASS" signature="tearnDown()[pri:0, instance:testSuite.Demo@73ee04c8]" name="tearnDown" is-config="true" duration-ms="4805" started-at="2018-01-12T04:37:33Z" finished-at="2018-01-12T04:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearnDown -->
+      </class> <!-- testSuite.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
